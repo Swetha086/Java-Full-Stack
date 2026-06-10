@@ -1,0 +1,31 @@
+.Kids{
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    grid-template-rows: 100px 100px 100px;
+    gap: 2cm;
+}
+header{
+    grid-column: 1/3;
+    background-color: peachpuff;
+}
+footer{
+    grid-column: 1/3;
+    background-color:darkkhaki;
+}
+main{
+    background-color:hotpink;
+}
+aside{
+    background: plum;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1cm;
+}
+.d1 {
+    background-color: burlywood;
+    text-align: center;
+    padding: 20px;
+
+}
