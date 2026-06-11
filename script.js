@@ -1,0 +1,36 @@
+/*let name="Shwetha";
+var age=19;
+const height= "5.4";
+console.log(name);
+console.log(age);
+console.log(height);
+console.log(age+5);
+console.log(age-3);
+console.log(age*2);
+console.log(age/2);
+console.log(age%4);
+age+=3;
+console.log(age);
+age-=2;
+console.log(age);
+age*=2;
+console.log(age);
+age/=3;
+console.log(age);
+age%=4;
+console.log(age);
+let age1="26";
+console.log(age>age1);
+console.log(age<age1);
+console.log(age>=age1);
+console.log(age<=age1);
+console.log(age==age1);
+console.log(age===age1);
+let food="Biryani";
+let break_fast="Dosa";
+let food2="Idly";
+let food3="Pongal";
+let food4="Vada";
+let food5="Pesarattu";
+*/
+
