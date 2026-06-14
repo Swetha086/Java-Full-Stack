@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(to right, gray, lavender);
+    border: 5px groove azure;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: brown;
+    font-size: 30px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+h2{
+    color: chocolate;
+    font-size: 30px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+form{
+    color: black;
+    margin-bottom: 30px;
+}
+
+p{
+    color: black;
+    font-size: 18px;
+}
+
+.license{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+.info{
+    width: 70%;
+}
+
+.photo{
+    width: 30%;
+    text-align: center;
+}
+
+.photo img{
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px gray;
+    border: 2px solid black;
+}

@@ -1,0 +1,19 @@
+img{
+  width: 480;
+}
+body{
+  background-color: rgb(134, 191, 134);
+}
+#content{
+  display: flex;
+  gap: 1cm;
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:whitesmoke;
+    background-color: rgb(199, 146, 163);
+    border: 3px;
+    border-radius: 25px;
+}
